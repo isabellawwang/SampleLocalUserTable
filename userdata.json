@@ -1,0 +1,62 @@
+[
+  {
+      "PersonID": 1,
+      "FullName": "Isabella Wang",
+      "info": {
+          "email": ["iww@duke.edu", "isabellawang822@gmail.com"],
+          "affiliation": ["Duke University"],
+          "role": "Student",
+          "bio": "Hello World",
+          "location": ["Briarcliff Manor, NY", "Durham, NC"],
+          "lookingFor": ["Mentors", "Mentees"],
+          "groups": [
+              "DTech",
+              "Duke"
+          ],
+          "interests": [
+              "Swimming",
+              "App development"
+          ],
+          "LinkedIn_url": "https://www.linkedin.com/in/isabellawwang/"
+      }
+  },
+  {
+      "PersonID": 2,
+      "FullName": "Julianna Wang",
+      "info": {
+          "email": ["juliannawang303@gmail.com"],
+          "affiliation": ["Todd Elem School"],
+          "role": "Student",
+          "bio": "Hello World",
+          "location": ["Briarcliff Manor, NY"],
+          "lookingFor": ["Mentors"],
+          "groups": [
+            "LEGO Enthusiasts"
+          ],
+          "interests": [
+              "Sewing",
+              "LEGOs"
+          ],
+          "LinkedIn_url": "did not add"
+      }
+  },
+  {
+      "PersonID": 3,
+      "FullName": "SpongeBob SquarePants",
+      "info": {
+          "email": ["sponge@gmail.com"],
+          "affiliation": ["Krusty Krab"],
+          "role": "Chef",
+          "bio": "F.U.N.",
+          "location": ["Pineapple"],
+          "lookingFor": ["Mentees"],
+          "groups": [
+            "Squidward Squad"
+          ],
+          "interests": [
+              "Jellyfishing"
+          ],
+          "LinkedIn_url": "did not add"
+      }
+  }
+]
